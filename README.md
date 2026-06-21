@@ -1,12 +1,12 @@
 # Banking Transaction Intelligence & AML Monitoring Platform
 
-## Overview
+## Project Overview
+An end-to-end banking analytics engine designed to parse and monitor 500,000+ financial transactions (totaling ₹1.2B+ in volume) for AML anomalies and fraud indicators. 
 
-The Banking Transaction Intelligence & AML Monitoring Platform is an end-to-end banking analytics solution designed to monitor transaction activity, identify suspicious patterns, assess customer risk exposure, and support Anti-Money Laundering (AML) investigations through data-driven analytics.
+### Infrastructure & Integration Highlights:
+* **Data Virtualization Mindset:** Structured database layers to optimize real-time query performance, simulating virtualization concepts to minimize unnecessary data movement.
+* **Integration Mapping:** Maintained strict Source-to-Target documentation to map raw transaction logs into clean, structured compliance reporting models.
 
-This project integrates SQL, Python, Excel, and Power BI to analyze transaction behavior, detect anomalies, monitor compliance KPIs, and provide executive-level insights through interactive dashboards.
-
----
 
 ## Business Problem
 
